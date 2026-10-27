@@ -1,0 +1,154 @@
+[
+  {
+    "n": 1,
+    "title": "A first seller needs a system that the founder can already teach.",
+    "summary": "Hiring a closer is not a substitute for discovering the buyer or fixing activation.",
+    "flow": [
+      "Repeatable buyer",
+      "Honest offer",
+      "Successful use",
+      "Teachably won sales"
+    ],
+    "source": "Hormozi says that if the founder has no good calls to teach from, the founder should first sell successfully and record them.",
+    "action": "Before hiring, assemble a buyer profile, fit/no-fit rules, sample calls obtained with consent, a demo, evidence of useful outcomes and a stable source of qualified conversations.",
+    "rule": "If users pay but fail to reach value, product/delivery is the bottleneck. If qualified demand exceeds founder capacity and outcomes hold, a sales hire may help.",
+    "caveat": "Readiness is an editorial gate, not a universal number of customers.",
+    "sources": [
+      "HT",
+      "SB"
+    ]
+  },
+  {
+    "n": 2,
+    "title": "Test coachability in a live role-play.",
+    "summary": "A confident interview performance does not show whether someone can improve.",
+    "flow": [
+      "Role-play",
+      "One clear correction",
+      "Repeat",
+      "Observe change"
+    ],
+    "source": "Hormozi tests responsiveness, listening and coachability by giving feedback and repeating a role-play.",
+    "action": "Give a candidate the same buyer scenario, offer and honest constraints. Assess listening, problem diagnosis, accurate promises and response to feedback.",
+    "rule": "If they ignore a correction or make unsupported claims to win, do not mistake confidence for ability.",
+    "caveat": "Use a consistent fair rubric. This site does not prescribe employment terms or unpaid work.",
+    "sources": [
+      "HT"
+    ]
+  },
+  {
+    "n": 3,
+    "title": "Teach the customer\u2019s situation before the script.",
+    "summary": "The best product tour still fails when it solves the wrong problem.",
+    "flow": [
+      "Why here?",
+      "What hurts?",
+      "What tried?",
+      "Permission to show"
+    ],
+    "source": "The team video uses a question-based sequence: clarify, label the problem, review past experience, ask permission to explain, address stated problems, ask for a decision, discuss concerns, reinforce.",
+    "action": "Write a conversation map, not a monologue. Demo only the workflow that answers the stated job. Ask the buyer to perform the key action.",
+    "rule": "If the rep cannot explain who should not buy, the training is incomplete.",
+    "caveat": "No polished acronym expansion is presented as verbatim because the retrieved automated wording is noisy.",
+    "sources": [
+      "HT",
+      "H3"
+    ]
+  },
+  {
+    "n": 4,
+    "title": "Increase live calls after demonstrated readiness.",
+    "summary": "Training is a progression, not a deck sent on day one.",
+    "flow": [
+      "Listen",
+      "Practice",
+      "Pass",
+      "Limited calls",
+      "Full load"
+    ],
+    "source": "Hormozi prescribes about 14 days, around 40 example calls and a half schedule after passing role-play. These are his operating numbers, not requirements.",
+    "action": "Adapt the progression to your volume and product complexity. Use consented calls or synthetic scenarios, a quality rubric and supervised first calls.",
+    "rule": "If lead quality or call quality collapses, do not solve it by giving an unready rep more leads.",
+    "caveat": "Readiness includes correct promises, fit diagnosis and the handoff to activation.",
+    "sources": [
+      "HT"
+    ]
+  },
+  {
+    "n": 5,
+    "title": "Coach one observable behavior, then check whether it changed.",
+    "summary": "Feedback needs a practice loop. \u201cBe more confident\u201d is not a drill.",
+    "flow": [
+      "Listen",
+      "Pick one behavior",
+      "Practice",
+      "Live call",
+      "Check again"
+    ],
+    "source": "He describes listening to one or two calls, choosing the highest-impact changes and drilling them through role-play, with dated notes across weeks.",
+    "action": "Example: last call the rep demoed before learning the job. Practice asking and reflecting the buyer\u2019s problem first. Review the next call for that behavior.",
+    "rule": "If feedback repeats without a changed behavior, simplify the drill or identify the missing skill.",
+    "caveat": "His example allocation is30 minutes review,5 feedback,25 practice. Treat it as a sample, not a staffing formula.",
+    "sources": [
+      "HT"
+    ]
+  },
+  {
+    "n": 6,
+    "title": "Reward customers who stay helped, not only money collected.",
+    "summary": "Upfront cash can look good while overselling creates churn and refunds.",
+    "flow": [
+      "Qualified fit",
+      "Collected payment",
+      "Activated use",
+      "Retained value"
+    ],
+    "source": "The source discusses cash-up-front optimization, leaderboards and performance rules. Those are context-specific prescriptions.",
+    "action": "Pair sales metrics with activated paying customers, refunds, retention, accurate promises and support burden. Review poor-fit deals, not just losses.",
+    "rule": "If close rate rises while activation or retention falls, inspect incentives and the promises made.",
+    "caveat": "Do not import forced ranking, firing quotas or financial pressure tactics into a tiny team.",
+    "sources": [
+      "HT",
+      "SB"
+    ]
+  },
+  {
+    "n": 7,
+    "title": "The best salesperson is not automatically the best manager.",
+    "summary": "Management requires patient diagnosis and practice, not just personal closing ability.",
+    "flow": [
+      "Observe",
+      "Teach",
+      "Motivate",
+      "Maintain standards"
+    ],
+    "source": "Hormozi describes a good manager as stable, giving, able to lead by example, motivate and train. He describes about an hour per rep weekly after onboarding, more early.",
+    "action": "Protect actual coaching capacity. Keep dated behavior notes and a shared definition of a good call and customer fit.",
+    "rule": "If nobody has time to listen and coach, adding reps may multiply mistakes.",
+    "caveat": "Manager bandwidth is a capacity constraint, not an optional meeting. His time estimate needs local testing.",
+    "sources": [
+      "HT"
+    ]
+  },
+  {
+    "n": 8,
+    "title": "Build the team around the bottleneck, not a standard org chart.",
+    "summary": "Early software roles can be combined, but the responsibilities cannot be ignored.",
+    "flow": [
+      "Find job",
+      "Build loop",
+      "Deliver safely",
+      "Learn",
+      "Grow"
+    ],
+    "source": "The sales-team source explains sales training. It does not establish a software engineering hiring sequence.",
+    "action": "Assign named ownership for customer learning, product/engineering, measurement, delivery/support and distribution. Choose the next hire from observed repeated work or failures.",
+    "rule": "If the workflow is still bespoke, an engineer may automate the wrong service. If the workflow is stable but unreliable, a marketer will amplify failure.",
+    "caveat": "This is a proposed early-team map, not a claim that a fixed five-person team is required.",
+    "sources": [
+      "HT",
+      "AC",
+      "SB"
+    ]
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "id": "PG",
+    "title": "Do Things that Don't Scale",
+    "publisher": "Paul Graham",
+    "url": "https://www.paulgraham.com/ds.html",
+    "type": "Founder essay",
+    "coverage": "Read full essay. Early recruitment, manual service and examples including Stripe and Airbnb. Historical examples, not current performance figures."
+  },
+  {
+    "id": "SP",
+    "title": "Pricing low-touch SaaS",
+    "publisher": "Stripe Atlas \u00b7 Patrick McKenzie",
+    "url": "https://stripe.com/guides/atlas/saas-pricing",
+    "type": "Practitioner guide with case critiques",
+    "coverage": "Read pricing/packaging guide. Cirtru, FormAPI/DocSpring, CoinTracker and other examples are historical critiques, not controlled tests or verified revenue lifts. Old prices are not current recommendations."
+  },
+  {
+    "id": "SB",
+    "title": "The SaaS business model",
+    "publisher": "Stripe Atlas \u00b7 Patrick McKenzie",
+    "url": "https://stripe.com/guides/atlas/business-of-saas",
+    "type": "Practitioner guide",
+    "coverage": "Read model, low-touch/high-touch and economic guidance. Used for business-model distinctions, not a forecast for this product."
+  },
+  {
+    "id": "AC",
+    "title": "What Is PLG?",
+    "publisher": "Amplitude",
+    "url": "https://amplitude.com/guides/what-is-product-led-growth-plg",
+    "type": "Vendor educational guide",
+    "coverage": "Read customer journey, activation, retention and growth-stack sections. Commercial source; describes a model, not proof that product-led growth fits every business."
+  },
+  {
+    "id": "AM",
+    "title": "Discover your users' a-ha moments",
+    "publisher": "Amplitude Docs",
+    "url": "https://amplitude.com/docs/analytics/charts/compass/compass-aha-moment",
+    "type": "Product analytics documentation",
+    "coverage": "Read full page. Events, base/target cohorts and action-retention correlations. Correlation is not causation; no generic activation benchmark imported."
+  },
+  {
+    "id": "H1",
+    "title": "How To Actually Get Rich In Your 20s",
+    "publisher": "Alex Hormozi \u00b7 YouTube + public transcript mirror",
+    "url": "https://www.youtube.com/watch?v=aFoMYz_jWcs",
+    "mirror": "https://pickscribe.com/v/aFoMYz_jWcs/",
+    "type": "Creator source \u00b7 partial retrieved transcript",
+    "coverage": "Mirror retains the older title Brutally Honest Advice for Men To Win In Their 20s. Approximately the first 50,000 characters retrieved, ending mid-sentence; no verified timestamps or audio. Skill stacking and repetitions are context, not software instructions."
+  },
+  {
+    "id": "H2",
+    "title": "$100M CEO Explains How to Build A Brand in 2024",
+    "publisher": "Alex Hormozi \u00b7 YouTube + public transcript mirror",
+    "url": "https://www.youtube.com/watch?v=VQM3DrnVTcs",
+    "mirror": "https://ytscribe.com/v/VQM3DrnVTcs",
+    "type": "Creator framework \u00b7 transcript-derived",
+    "coverage": "Substantive branding mirror text read. Timestamp anchors and audio not verified. Brand pairings and Nike are his explanatory examples, not independently proven causal claims."
+  },
+  {
+    "id": "H3",
+    "title": "How to Sell Better than 99% Of People (4 HOUR ULTIMATE GUIDE)",
+    "publisher": "Alex Hormozi \u00b7 YouTube + third-party mirrors",
+    "url": "https://www.youtube.com/watch?v=JE2_7elAcxM",
+    "mirror": "https://youtube2text.diguardia.org/v/JE2_7elAcxM",
+    "type": "Creator source \u00b7 partial retrieved transcript",
+    "coverage": "Retrieved timestamped excerpt covers 0:00\u201335:30 and ends mid-line near a 50k extraction limit. Untimed mirror also partial. This is not proof the mirror ends there and is not four-hour transcription. Times are mirror-derived, not audio verified."
+  },
+  {
+    "id": "H4",
+    "title": "Alex Hormozi's Advice on SaaS",
+    "publisher": "YouTube \u00b7 supplied link",
+    "url": "https://www.youtube.com/watch?v=POAgwQKBcMU",
+    "type": "Title verified \u00b7 content unavailable",
+    "coverage": "Page title and date 2024-10-16 verified. No substantive transcript retrieved. No specific advice in this site is attributed to this clip. A promotional Reddit summary was not substituted for the source."
+  },
+  {
+    "id": "HT",
+    "title": "How To Build Large Sales Teams (Starting from 0)",
+    "publisher": "Alex Hormozi \u00b7 YouTube",
+    "url": "https://www.youtube.com/watch?v=2lA_A8BGRRs",
+    "type": "Primary creator source \u00b7 substantive transcript read",
+    "coverage": "Substantial transcript text retrieved from YouTube page extraction; no verified timestamps or audio. Source supplies role-play, onboarding, limited-call progression and weekly coaching practices. Numbers are his prescriptions, not universal benchmarks."
+  },
+  {
+    "id": "AL",
+    "title": "$100M In 12 Months \u00b7 ALAN account",
+    "publisher": "Alex Hormozi \u00b7 YouTube description",
+    "url": "https://www.youtube.com/watch?v=LV_CM59e6S4",
+    "type": "Self-reported business story",
+    "coverage": "Video description says ALAN worked leads for agency customers, reached $1.7mmo within six months and sold 75% in an all-stock deal. Not audited here. Do not equate this with retained MRR, ARR, profit, margin or a repeatable launch recipe."
+  },
+  {
+    "id": "SK",
+    "title": "About Skool",
+    "publisher": "Skool",
+    "url": "https://www.skool.com/about",
+    "type": "Official company account",
+    "coverage": "Official page says founded in 2019 by Sam Ovens (CEO) and Daniel Kang (CTO); Hormozi partnered in 2024 to create the Skool Games. Distinguish original product building from investment and distribution."
+  },
+  {
+    "id": "HF",
+    "title": "Official free training library",
+    "publisher": "Acquisition.com",
+    "url": "https://www.acquisition.com/training",
+    "type": "Lawful free learning access",
+    "coverage": "Official training links. Some workshop copy references 2024. Availability of a landing page does not verify every lesson or marketing result."
+  },
+  {
+    "id": "HL",
+    "title": "Stage 1 resources \u00b7 $100M Leads",
+    "publisher": "Acquisition.com",
+    "url": "https://www.acquisition.com/scalepast100k",
+    "type": "Official lawful resource page",
+    "coverage": "Page lists lead-magnet and first-client resources and says the audiobook is free on The Game podcast. Link to official access; no ebook/PDF/transcript redistribution is implied."
+  }
+]

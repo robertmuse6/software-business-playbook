@@ -1,0 +1,426 @@
+[
+  {
+    "n": 1,
+    "stage": "Free offer",
+    "title": "Give away one small result, not a miniature company.",
+    "summary": "The free thing should finish one useful job and point naturally toward the larger problem you could solve.",
+    "flow": [
+      "One urgent job",
+      "A tiny useful output",
+      "A next step"
+    ],
+    "why": "A broad life-coaching promise is hard to try and harder to judge. A narrow output makes the value visible before asking for trust.",
+    "action": "Pick one buyer situation and write the output someone can finish in one sitting. Test a manual version before software.",
+    "metric": "Track useful outputs completed, not downloads alone. Record what people do next.",
+    "rule": "If people collect it but never use it, shrink the job or improve the fit before adding features.",
+    "application": "Hypothesis: a short decision worksheet that ends in one real-world test could lead to a supported decision sprint. This is one option, not the chosen product.",
+    "example": "Paul Graham describes Stripe founders setting up users directly and Airbnb founders visiting hosts. Early manual work can uncover what must later become software. The official $100M Leads resource page lists lead magnets and first-client materials; the landing-page titles alone do not establish a detailed lesson.",
+    "sources": [
+      "PG",
+      "HL"
+    ]
+  },
+  {
+    "n": 2,
+    "stage": "Free offer",
+    "title": "Choose a channel where the problem already appears.",
+    "summary": "Distribution starts with a specific person in a specific situation, not with a list of every marketing channel.",
+    "flow": [
+      "Trigger",
+      "Place they seek help",
+      "Useful invitation"
+    ],
+    "why": "A channel that produces attention from the wrong audience makes the later funnel look broken.",
+    "action": "Compare a warm introduction, a relevant community and useful public content. Choose one for a small first test. Respect community rules and consent.",
+    "metric": "For each channel: qualified visits \u2192 starts \u2192 useful completions \u2192 conversations. Keep the counts separate.",
+    "rule": "If a channel gets clicks but no useful completions, inspect buyer fit and promise before buying more traffic.",
+    "application": "Hypothesis: reach people near a real decision deadline through an existing trusted group. Do not assume followers or a mailing list already exist.",
+    "example": "Stripe separates low-touch software sold through product/marketing from high-touch software supported by human selling. The channel and price have to pay for the chosen motion. Hormozi\u2019s branding talk adds a useful distinction: reach makes people aware; repeated pairings shape what they associate with you. He uses Nike and athletes as an illustration.",
+    "sources": [
+      "SB",
+      "PG",
+      "H2"
+    ]
+  },
+  {
+    "n": 3,
+    "stage": "Free offer",
+    "title": "Make free a bounded business decision.",
+    "summary": "A free worksheet, a time-limited trial and a permanent free product are different offers with different costs.",
+    "flow": [
+      "Free resource",
+      "Trial of paid value",
+      "Ongoing free tier"
+    ],
+    "why": "Unlimited free coaching can attract demand you cannot afford to serve. Free must have a job in the business.",
+    "action": "Choose what is free, for whom, for how long, the usage cap and the path to paid. State the boundary before signup.",
+    "metric": "Cost per useful free completion; support minutes; proportion reaching the next value event.",
+    "rule": "If free value is expensive and rarely leads to a useful next step, cap usage or test a trial or paid pilot instead.",
+    "application": "Hypothesis: offer one self-serve diagnostic free; test human support as a paid pilot. No price is selected.",
+    "example": "Stripe pricing guidance distinguishes the underlying product from its packaging and warns against unlimited plans. That is guidance, not a rule that freemium always loses.",
+    "sources": [
+      "SP",
+      "SP",
+      "HL"
+    ]
+  },
+  {
+    "n": 4,
+    "stage": "Free offer",
+    "title": "Decide what would disprove the offer before you launch it.",
+    "summary": "A free offer tests usefulness and distribution. It does not prove willingness to pay.",
+    "flow": [
+      "Prediction",
+      "Observed action",
+      "Keep / change / stop"
+    ],
+    "why": "People can praise a free tool without having a problem worth paying to solve.",
+    "action": "Write one falsifiable prediction, recruit a small relevant group and observe use. Agree a decision date rather than collecting feedback forever.",
+    "metric": "Use raw counts with denominators and interview notes. Small samples are directional, not statistical certainty.",
+    "rule": "If the promised output does not help anyone act, change the job before polishing the landing page.",
+    "application": "Hypothesis: watch whether a user takes the next agreed action after a decision worksheet, not whether they say the worksheet is impressive.",
+    "example": "The first-users examples in Paul Graham are about direct learning and service. They do not establish a universal conversion benchmark.",
+    "sources": [
+      "PG"
+    ]
+  },
+  {
+    "n": 5,
+    "stage": "Passive user",
+    "title": "Define passive so you can tell who is actually stuck.",
+    "summary": "A follower, an email subscriber, a signup and an unused free account are different states. Choose your own event definition.",
+    "flow": [
+      "Reached",
+      "Opted in",
+      "Not yet helped"
+    ],
+    "why": "Without definitions, growth can be a pile of signups while nobody gets a result.",
+    "action": "Write passive = a specific consented entry event, with no first-value event yet. Separate anonymous visitors from identified accounts.",
+    "metric": "Passive users by channel and age since entry. Do not mix new arrivals with old inactive accounts.",
+    "rule": "If you cannot identify the transition event, instrument it before claiming the funnel improved.",
+    "application": "Hypothesis: passive means someone saved a decision tool but has not completed a useful next-action plan. This needs testing for the actual product.",
+    "example": "Amplitude treats activation as discovering and experiencing product value, which is different from a registration event.",
+    "sources": [
+      "AC"
+    ]
+  },
+  {
+    "n": 6,
+    "stage": "Passive user",
+    "title": "The invitation should promise the next result, not more content.",
+    "summary": "A useful prompt tells someone what they will finish and how much work it takes.",
+    "flow": [
+      "Current situation",
+      "One small task",
+      "Visible payoff"
+    ],
+    "why": "An account welcome email is not a reason to return. The user needs a reason tied to their own job.",
+    "action": "Show one concrete next step, a worked example and a clear way to start. Ask permission for reminders; do not manufacture urgency.",
+    "metric": "Entry \u2192 first task started; started \u2192 completed; where people stop.",
+    "rule": "If people start but stall, remove work or explain the payoff. If they never start, revisit the promise and audience.",
+    "application": "Hypothesis: ask a person to choose one decision they need to make, then show what a finished action plan looks like.",
+    "example": "Stripe pricing examples stress continuing the sales message and reducing decision fatigue. We apply that principle here to onboarding, not as a measured result.",
+    "sources": [
+      "SP"
+    ]
+  },
+  {
+    "n": 7,
+    "stage": "Passive user",
+    "title": "A human-assisted first run can reveal the software you need.",
+    "summary": "Do the work alongside early users before automating the wrong sequence.",
+    "flow": [
+      "Watch",
+      "Help",
+      "Record friction",
+      "Build the repeat"
+    ],
+    "why": "Automation saves the most time when the workflow is known. Until then it can hide why a user struggles.",
+    "action": "Observe several first runs. Note questions, manual interventions, missing inputs and unsafe outputs. Build only the repeated bottleneck.",
+    "metric": "Minutes to first useful result; interventions per user; repeated friction points.",
+    "rule": "If every user needs a different service, narrow the job before writing a generalized platform.",
+    "application": "Hypothesis: manually help a person complete one decision sprint. Separate what required human judgment from what a form or workflow can do.",
+    "example": "Paul Graham describes founders manually recruiting and delighting early users, including the Collisons doing installation themselves.",
+    "sources": [
+      "PG"
+    ]
+  },
+  {
+    "n": 8,
+    "stage": "Passive user",
+    "title": "Measure the whole handoff, including silence.",
+    "summary": "A signup can fail because of fit, effort, confusion, timing or missing trust. These need different fixes.",
+    "flow": [
+      "Right person?",
+      "Clear next step?",
+      "Worth the effort?",
+      "Enough trust?"
+    ],
+    "why": "More reminders will not fix a product that asks for too much sensitive information before delivering value.",
+    "action": "Ask a few non-starters what happened. Review the actual first-run experience before inventing an engagement campaign.",
+    "metric": "Time to first value, abandonment step, and reasons for not continuing.",
+    "rule": "If trust is the blocker, show limits, privacy and examples. If effort is the blocker, shorten the path.",
+    "application": "Hypothesis: let users try a non-sensitive example before asking for a personal life history.",
+    "example": "This is an original diagnostic built from activation guidance and early-user observation principles, not a Hormozi quotation.",
+    "sources": [
+      "AC",
+      "PG"
+    ]
+  },
+  {
+    "n": 9,
+    "stage": "Active user",
+    "title": "Activation means a useful action happened.",
+    "summary": "Define a first-value event tied to the job. Merely opening the app or chatting is not enough.",
+    "flow": [
+      "Input",
+      "Useful output",
+      "Real action"
+    ],
+    "why": "If the core job is making progress on a decision, the product must connect advice to an action outside the chat.",
+    "action": "Draft one activation event and verify it with observed users. Then check whether activated users return more often than others.",
+    "metric": "Activated users / eligible new users, within an explicitly named window. Compare by cohort and channel.",
+    "rule": "If activation does not predict later value, change the definition. A correlation is a clue, not proof that forcing the event causes retention.",
+    "application": "Hypothesis: activation could be a completed action plan plus one attempted real-world step. The right event is still unknown.",
+    "example": "Amplitude Compass investigates actions associated with later retention. It helps find candidate aha moments; it does not establish causation by itself.",
+    "sources": [
+      "AM"
+    ]
+  },
+  {
+    "n": 10,
+    "stage": "Active user",
+    "title": "Shorten the path to value before adding a feature.",
+    "summary": "The smallest helpful product is often a complete narrow workflow rather than a shallow version of a huge platform.",
+    "flow": [
+      "Arrive",
+      "Do the job",
+      "See result"
+    ],
+    "why": "Every extra question, screen or permission is work before the user knows the product helps.",
+    "action": "Remove one step between arrival and the useful event. Keep safety and necessary consent. Compare the next cohort, not just time-on-site.",
+    "metric": "Median time to first value; completion count; quality of the output.",
+    "rule": "If speed increases but output quality drops, restore the step or redesign it. Fast bad advice is not activation.",
+    "application": "Hypothesis: start with one decision route, not a full catalogue of coaching, learning and opportunities.",
+    "example": "Original application of the activation and first-user sources. No source establishes a particular feature roadmap for this venture.",
+    "sources": [
+      "AC",
+      "PG"
+    ]
+  },
+  {
+    "n": 11,
+    "stage": "Active user",
+    "title": "Separate motivation from a product that reliably works.",
+    "summary": "Software adds a quality obligation: the same promise must work when the founder is not there.",
+    "flow": [
+      "Useful",
+      "Reliable",
+      "Understandable",
+      "Safe"
+    ],
+    "why": "A compelling pitch can sell a first session. It cannot repair lost work, misleading recommendations or broken access.",
+    "action": "List the failures that would destroy trust. Add basic error handling, saved work, correction routes and clear product limits before scaling.",
+    "metric": "Task success; data loss incidents; support response time; human escalation rate.",
+    "rule": "If the product regularly needs rescue, stop adding acquisition until the repeated failure is fixed.",
+    "application": "Hypothesis: a coaching tool should say when it lacks context and make it easy to correct an inaccurate recommendation. It is not a substitute for professional care.",
+    "example": "Stripe describes SaaS as an ongoing delivery relationship. The specific safety checklist is our proposed operating practice.",
+    "sources": [
+      "SB"
+    ]
+  },
+  {
+    "n": 12,
+    "stage": "Active user",
+    "title": "A good free experience can still be the wrong paid business.",
+    "summary": "Test whether people want a continuing tool, a one-off outcome or human help. Those are different businesses.",
+    "flow": [
+      "One-off job",
+      "Recurring workflow",
+      "Assisted service"
+    ],
+    "why": "A deadline-driven decision may end. Forcing a subscription onto an occasional job can create avoidable churn.",
+    "action": "Offer clear alternatives in customer conversations: one-off sprint, recurring tool, assisted service. Ask for a real purchase decision only when you can deliver.",
+    "metric": "Reasons for choosing a model; completed paid pilots; delivery cost. Interest is not a sale.",
+    "rule": "If the need ends after one outcome, test a one-off model instead of assuming recurring software revenue.",
+    "application": "Hypothesis: a decision sprint could be one-off while an ongoing team workflow could justify recurring use. Neither is chosen yet.",
+    "example": "Stripe distinguishes low-touch and high-touch models and discusses pricing relative to value and sales cost.",
+    "sources": [
+      "SB",
+      "SP"
+    ]
+  },
+  {
+    "n": 13,
+    "stage": "Paid user",
+    "title": "Charge for a clear outcome or capability, not a vague upgrade.",
+    "summary": "The paid boundary should be explainable in one sentence. More buttons are not automatically more value.",
+    "flow": [
+      "Free result",
+      "Paid job",
+      "Clear boundary"
+    ],
+    "why": "A customer needs to know why the paid version changes what they can accomplish.",
+    "action": "Write: free helps you do X; paid helps you do Y. State scope, duration, support and cancellation plainly.",
+    "metric": "Paywall exposure \u2192 checkout start \u2192 successful payment \u2192 delivered result.",
+    "rule": "If users hit the boundary but do not buy, inspect value, fit, trust and price separately. Do not assume the price alone is wrong.",
+    "application": "Hypothesis: paid might add a supported follow-through sprint to a free decision map. Do not promise career or income outcomes you cannot control.",
+    "example": "In Stripe\u2019s Cirtru example, the key packaging distinction is a tool versus a more managed outcome. It is a pricing critique, not proof of a revenue lift.",
+    "sources": [
+      "SP"
+    ]
+  },
+  {
+    "n": 14,
+    "stage": "Paid user",
+    "title": "Price must support the way you sell and deliver.",
+    "summary": "Self-serve software, sales-assisted software and human coaching have different costs.",
+    "flow": [
+      "Price",
+      "Variable cost",
+      "Contribution",
+      "Acquisition cost"
+    ],
+    "why": "A low monthly price with long sales calls and unlimited support may be a service business losing money in software clothing.",
+    "action": "Estimate payment fees, AI/API usage, human delivery and support per customer. Use contribution after those costs to set an acquisition budget.",
+    "metric": "Contribution per customer; cost to acquire a paying customer; payback period using the same time unit.",
+    "rule": "If each sale adds more delivery cost than revenue, fix scope, price or delivery before adding sellers.",
+    "application": "Hypothesis: price a pilot from actual delivery effort and buyer value. Use the calculator to test assumptions, not as a recommended price.",
+    "example": "Stripe\u2019s business-of-SaaS guide explains why pricing and low-/high-touch selling must fit together.",
+    "sources": [
+      "SB",
+      "SP"
+    ]
+  },
+  {
+    "n": 15,
+    "stage": "Paid user",
+    "title": "Use discovery to test fit before you try to close.",
+    "summary": "Find the real situation, previous attempts, deadline and decision process. A no-fit customer is a useful discovery outcome.",
+    "flow": [
+      "Situation",
+      "Impact",
+      "Tried before",
+      "Next step"
+    ],
+    "why": "Scripts help only when they surface a real buying problem. Pressure can make a sale that later turns into a refund and lost trust.",
+    "action": "Ask: What are you trying to get done? Why now? What have you tried? What would a useful result look like? Who decides? Then reflect it back.",
+    "metric": "Qualified conversations; fit/no-fit reasons; agreed next steps; refunds and downstream use.",
+    "rule": "If there is no urgent job or credible way to help, say so. Do not invent scarcity or shame people into paying.",
+    "application": "Hypothesis: demo the workflow using a buyer\u2019s agreed non-sensitive example, then ask whether the output solves the stated job.",
+    "example": "In the sales compilation, the transcript-derived 4:42\u20134:58 section puts the prospect ahead of the sale. In the team video he emphasizes prospect knowledge, not only product knowledge. The questions here are an adaptation, not a direct quote.",
+    "sources": [
+      "SB",
+      "H3",
+      "HT"
+    ]
+  },
+  {
+    "n": 16,
+    "stage": "Paid user",
+    "title": "Treat objections as missing information before treating them as resistance.",
+    "summary": "Too expensive, no time and need to think can mean several things. Diagnose rather than recite a comeback.",
+    "flow": [
+      "Concern",
+      "Clarifying question",
+      "Evidence",
+      "Decision"
+    ],
+    "why": "A buyer who does not understand the commitment needs clarity. A buyer who cannot afford it needs a safe no, not financing pressure.",
+    "action": "Ask what specifically makes the purchase hard. Show relevant evidence or limits. Offer a smaller appropriate scope only if it still helps.",
+    "metric": "Objection categories; resolution; later activation and refunds, not close rate alone.",
+    "rule": "If the concern is real product weakness, fix it. If it is poor fit, disqualify.",
+    "application": "Hypothesis: if someone asks how this differs from a general chatbot, show the concrete workflow, continuity and evidence rather than making broad AI claims.",
+    "example": "At transcript-derived 25:01\u201325:30 in the sales compilation, he groups concerns around time, money, fit, authority/partner and avoidance. Some later high-ticket reframing is aggressive; we retain diagnosis and an honest no, not pressure.",
+    "sources": [
+      "SB",
+      "H3"
+    ]
+  },
+  {
+    "n": 17,
+    "stage": "Recurring core",
+    "title": "Recurring revenue must follow recurring value.",
+    "summary": "Payment alone does not tell you the product remains useful. A core user repeatedly completes the important job.",
+    "flow": [
+      "New need",
+      "Useful action",
+      "Visible progress",
+      "Return"
+    ],
+    "why": "Habitual app opening is not the goal when the user\u2019s job happens weekly, monthly or only near a decision.",
+    "action": "Define the natural cadence of the job and the event that demonstrates repeat value. Measure retention at that cadence.",
+    "metric": "Cohort retention for the core value event; paid renewal; cancellations; outcomes achieved.",
+    "rule": "If the job is completed and the user leaves satisfied, distinguish success from product failure. Consider one-off pricing or a new adjacent job.",
+    "application": "Hypothesis: a recurring tool may support weekly follow-through. A decision sprint may legitimately end. Product research must choose.",
+    "example": "Stripe treats retention and churn as central to a subscription business. Our cadence rule applies that to an episodic coaching context.",
+    "sources": [
+      "SB"
+    ]
+  },
+  {
+    "n": 18,
+    "stage": "Recurring core",
+    "title": "Cohorts tell you whether the product improves.",
+    "summary": "Compare people who started together. A growing total can hide weak retention in every group.",
+    "flow": [
+      "Start cohort",
+      "First value",
+      "Repeat value",
+      "Renewal"
+    ],
+    "why": "New acquisition can replace churned users and make a weak product look healthy.",
+    "action": "Group users by start period and channel. At a fixed age, count who repeated the core event and who renewed. Show raw denominators.",
+    "metric": "Week-N value-event retention = returning cohort users / eligible cohort users. Do not mix calendar totals with cohort rates.",
+    "rule": "If later cohorts improve, investigate what changed. If they worsen after broader acquisition, inspect fit.",
+    "application": "Hypothesis: track a chosen weekly action event only if weekly use matches the actual customer job.",
+    "example": "Amplitude\u2019s analytics guidance and Stripe\u2019s SaaS model support separating acquisition, activation and retention. No benchmark is asserted here.",
+    "sources": [
+      "AC",
+      "SB"
+    ]
+  },
+  {
+    "n": 19,
+    "stage": "Recurring core",
+    "title": "Solve why people leave before building a win-back campaign.",
+    "summary": "A reminder cannot fix a finished job, bad advice, a broken product or a price mismatch.",
+    "flow": [
+      "Finished?",
+      "Failed?",
+      "Forgot?",
+      "Wrong fit?"
+    ],
+    "why": "Each churn reason implies a different action. One retention tactic for all reasons wastes work.",
+    "action": "Read a sample of cancellation and inactivity cases. Separate completed need, missing value, friction, trust, price and failed payment.",
+    "metric": "Reason counts; voluntary versus payment-related churn; recovered value, not email opens.",
+    "rule": "If failure is involuntary payment loss, improve billing recovery. If the job is complete, change model or accept the exit.",
+    "application": "Hypothesis: do not shame a coaching user for leaving. Make cancellation clear, preserve their work and offer re-entry when the job returns.",
+    "example": "The reason-based decision tree is original applied guidance. Stripe supplies the underlying subscription model, not these precise categories.",
+    "sources": [
+      "SB"
+    ]
+  },
+  {
+    "n": 20,
+    "stage": "Recurring core",
+    "title": "Scale the narrow loop that already works.",
+    "summary": "Repeat the working buyer \u2192 value \u2192 payment \u2192 return loop before adding channels, features and people together.",
+    "flow": [
+      "Proven segment",
+      "Repeatable workflow",
+      "Affordable delivery",
+      "More volume"
+    ],
+    "why": "Changing everything at once makes it impossible to know what produced the result.",
+    "action": "Increase one dimension at a time and watch quality, support and contribution. Add a person only to a named recurring bottleneck.",
+    "metric": "Channel-level paid cohorts; contribution; support burden; delivery quality.",
+    "rule": "If growth breaks quality or economics, reduce the load and fix the limiting rail before spending more.",
+    "application": "Hypothesis: keep a small core workflow stable while testing one new acquisition channel. This is a proposed experiment, not a growth promise.",
+    "example": "Paul Graham supports learning manually early; Stripe supplies the economic constraints. Neither guarantees speed or scale.",
+    "sources": [
+      "PG",
+      "SB"
+    ]
+  }
+]
